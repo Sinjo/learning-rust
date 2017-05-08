@@ -1,0 +1,6 @@
+[package]
+name = "simple_crawler"
+version = "0.1.0"
+authors = ["Chris Sinjakli <chris@sinjakli.co.uk>"]
+
+[dependencies]
