@@ -4,3 +4,4 @@ version = "0.1.0"
 authors = ["Chris Sinjakli <chris@sinjakli.co.uk>"]
 
 [dependencies]
+hyper = "~0.10.9"
