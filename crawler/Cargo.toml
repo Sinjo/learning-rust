@@ -3,3 +3,6 @@
 name = "crawler"
 version = "0.0.1"
 authors = ["Chris Sinjakli <chris@sinjakli.co.uk>"]
+
+[dependencies]
+clap = "~2.32"
